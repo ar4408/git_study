@@ -1,1 +1,2 @@
 print("aiu")
+print("aiueo")
